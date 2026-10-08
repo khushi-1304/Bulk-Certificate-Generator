@@ -257,8 +257,3 @@ UUIDs are safe to expose externally (no information leakage), don't require
 central coordination, and are natively supported by PostgreSQL.
 
 ---
-
-## Interview Q&A
-
-See **[interview_answers.md](interview_answers.md)** for detailed answers to
-common interview questions about this project.
